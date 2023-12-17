@@ -1,0 +1,105 @@
+{
+    "Ads": {
+        "show_ads": false,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/2247696110",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "ironsource_api": "000000",
+        "appodeal_api": "000000",
+        "max_banner": "000000",
+        "max_inter": "000000",
+        "max_native": "000000",
+        "unityTest": false,
+        "unityGameID": "000000",
+        "unityBanner": "000000",
+        "unityInter": "000000",
+        "intersitial_click_activites": 5,
+        "intersitial_click_list": 5
+
+    },
+
+    "Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://www.google.com/",
+        "items_data": [{
+                "title": "Emergence of Digital Shopping in Fashion",
+                "image": "https://m-imag.web.app/reserved/1.webp",
+                "title_size": "25",
+				"detail": [{
+					"image": "",
+					"text": "The digital revolution ushered in a new era of convenience, accessibility, and variety in the fashion industry, transforming shopping from a traditionally physical experience to an increasingly digital one. Online platforms, e-commerce websites, and mobile applications, such as the Reserved app, have given consumers the ability to explore, compare, and purchase fashion items from the comfort of their homes.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Personalization in Digital Fashion Shopping",
+                "image": "https://m-imag.web.app/reserved/2.webp",
+                "title_size": "25",
+ 				"detail": [{
+					"image": "",
+					"text": "Personalization is at the heart of the digital fashion shopping experience. Advanced algorithms and machine learning technologies enable platforms to understand individual customer preferences and shopping behavior, providing personalized recommendations that enhance customer satisfaction and loyalty. The Reserved app, for instance, leverages user data to curate a personalized shopping experience, tailoring product suggestions to the individual's style preferences and shopping history.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Virtual Fitting Rooms and Augmented Reality",
+                "image": "https://m-imag.web.app/reserved/3.webp",
+                "title_size": "25",
+      			"detail": [{
+					"image": "",
+					"text": "The advent of augmented reality (AR) in digital fashion shopping has addressed one of the biggest challenges for online shoppers: the inability to try on clothes. Virtual fitting rooms and AR-powered applications now allow customers to visualize how a piece of clothing would look on them, thereby reducing the uncertainties of online shopping and increasing purchase confidence.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Sustainability and Ethical Shopping",
+                "image": "https://m-imag.web.app/reserved/4.webp",
+                "title_size": "25",
+          		"detail": [{
+					"image": "",
+					"text": "As consumers become more conscious of the impact of their shopping habits, digital platforms have an essential role in promoting sustainability and ethical fashion. Online platforms can provide information about a product's source, the conditions under which it was made, and its environmental impact. By promoting transparency and ethical practices, digital fashion platforms can help foster a culture of conscious consumption.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Future Trends in Digital Fashion Shopping",
+                "image": "https://m-imag.web.app/reserved/5.webp",
+                "title_size": "25",
+             	"detail": [{
+					"image": "",
+					"text": "Looking ahead, technology will continue to revolutionize the digital fashion shopping experience. Developments in artificial intelligence, machine learning, and AR will further refine personalization and customer engagement. Additionally, blockchain technology could enhance transparency and traceability in the fashion supply chain, reinforcing ethical and sustainable practices.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Conclusion",
+                "image": "https://m-imag.web.app/reserved/6.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "In conclusion, digital shopping in the fashion industry has revolutionized the way we explore, select, and purchase clothing. It has personalized the shopping experience, bridged the gap between physical and digital through AR, and provided a platform to encourage sustainability and ethical consumption. Apps like the Reserved app encapsulate these developments, offering a one-stop solution for the modern shopper. As we move forward, these trends will continue to evolve, further enhancing the convenience, personalization, and sustainability of the digital fashion shopping experience.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }
+        ]
+    }
+}
