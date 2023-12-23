@@ -15,146 +15,88 @@
 
     },
 
-    "Data": {
+      "Data": {
         "btn_more_title": "More",
         "btn_more_url": "https://www.google.com/",
         "items_data": [{
-                "title": "Overview of Personal Capital",
-                "image": "https://m-imag.web.app/personal/1.webp",
+                "title": "What is ExpertOption?",
+                "image": "https://m-imag.web.app/expertoption/1.webp",
                 "title_size": "25",
 				"detail": [{
 					"image": "",
-					"text": "Personal Capital is a powerful financial software suite that provides a comprehensive set of tools to aid users in managing their financial lives. It stands out for its ability to aggregate all of a user's financial accounts, from investments and bank accounts to credit cards and loans. This comprehensive view of one's finances offers unparalleled insight into an individual's complete financial picture.",
+					"text": "ExpertOption is an online trading platform that demystifies the world of stocks, commodities, and cryptocurrencies. Think of it as a bridge connecting you to the vast ocean of trading opportunities, without the need for a financial degree. \n \n A User-Friendly Interface \n \n Navigating through ExpertOption feels like a walk in the park. Everything is designed with the user in mind, making trading as straightforward as shopping online.",
 					"native": true,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": false,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-					{
-					"image": "",
-					"text": "",
-					"native": false,
 					"cpa_title": "",
 					"cpa_url": "000000"
 				}
 				]
             }, {
-                "title": "Personal Capital's Dashboard",
-                "image": "https://m-imag.web.app/personal/2.webp",
+                "title": "A Variety of Trading Options",
+                "image": "https://m-imag.web.app/expertoption/2.webp",
                 "title_size": "25",
  				"detail": [{
 					"image": "",
-					"text": "A Snapshot of Financial Health The Dashboard is a key feature of Personal Capital, serving as a one-stop-shop for users to track their net worth, cash flow, portfolio balances, and spending. With this tool, users can get a comprehensive, real-time view of their financial health. The dashboard is designed to help users understand where their money is going and identify opportunities for savings and investment.",
+					"text": "Whether you're into stocks, gold, or Bitcoin, ExpertOption has it all. It's like a buffet of trading options, offering something for everyone's taste. \n \n Learning Resources at Your Fingertips \n \n ExpertOption is not just about trading; it's also about learning. With an array of educational materials, it's like having a personal trading coach.",
 					"native": true,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": false,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-					{
-					"image": "",
-					"text": "",
-					"native": false,
 					"cpa_title": "",
 					"cpa_url": "000000"
 				}
 				]
             }, {
-                "title": "Investment Management with Personal Capital",
-                "image": "https://m-imag.web.app/personal/3.webp",
+                "title": "Secure and Reliable Trading",
+                "image": "https://m-imag.web.app/expertoption/3.webp",
                 "title_size": "25",
       			"detail": [{
 					"image": "",
-					"text": "Personal Capital's Investment Checkup tool helps users optimize their investment strategy based on their risk tolerance and financial goals. It offers tailored advice by analyzing the user's current portfolio and suggesting an ideal asset allocation. This feature is integral to making informed investment decisions and maximizing returns.",
+					"text": "With state-of-the-art security measures, trading on ExpertOption is as secure as banking online. You can trade with peace of mind, knowing your investments are safe. \n \n ExpertOption's Unique Features \n \n The platform is loaded with unique features, making it stand out in the crowded world of online trading. It's like having a Swiss Army knife for trading.",
 					"native": true,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": false,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-					{
-					"image": "",
-					"text": "",
-					"native": false,
 					"cpa_title": "",
 					"cpa_url": "000000"
 				}
 				]
             }, {
-                "title": "Budgeting and Cash Flow Analysis",
-                "image": "https://m-imag.web.app/personal/4.webp",
+                "title": "Accessibility and Mobile Trading",
+                "image": "https://m-imag.web.app/expertoption/4.webp",
                 "title_size": "25",
           		"detail": [{
 					"image": "",
-					"text": "Personal Capital also offers robust budgeting and cash flow analysis tools. Users can easily track their income and expenses, helping them stick to their budget and achieve their financial goals. It's easy to categorize transactions and understand spending habits, making it an effective tool for financial planning.",
+					"text": "Trade on the go with ExpertOption's mobile app. It's like having the power of a trading floor in your pocket. \n \n Making Informed Decisions \n \n ExpertOption provides all the tools you need to make informed decisions. It's like having a crystal ball, but for trading.",
 					"native": true,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": false,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": false,
 					"cpa_title": "",
 					"cpa_url": "000000"
 				}
 				]
             }, {
-                "title": "Retirement Planner: Mapping the Financial Future",
-                "image": "https://m-imag.web.app/personal/5.webp",
+                "title": "Community and Support",
+                "image": "https://m-imag.web.app/expertoption/5.webp",
                 "title_size": "25",
              	"detail": [{
 					"image": "",
-					"text": "One standout feature of Personal Capital is its Retirement Planner. This tool uses your real financial data to project your retirement savings and income, taking into account factors like inflation and market changes. It allows users to tweak their plans and see potential future scenarios, ensuring they are on track to reach their retirement goals.",
+					"text": "You're never alone on ExpertOption. With a robust community and support system, it's like being part of a trading family. \n \n Affordable Trading for Everyone \n \n Trading is no longer just for the wealthy. With ExpertOption, it's accessible to everyone, like opening the doors to an exclusive club to the public.",
 					"native": true,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": false,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": false,
 					"cpa_title": "",
 					"cpa_url": "000000"
 				}
 				]
             }, {
-                "title": "Conclusion",
-                "image": "https://m-imag.web.app/personal/6.webp",
+                "title": "Getting Started with ExpertOption",
+                "image": "https://m-imag.web.app/expertoption/6.webp",
                 "title_size": "25",
                 "detail": [{
 					"image": "000000",
-					"text": "In conclusion, Personal Capital serves as a holistic financial tool that assists users in tracking, managing, and optimizing their finances. From its comprehensive dashboard and investment checkup to its budgeting and retirement planning tools, it provides a broad array of features designed to enhance financial understanding and decision-making. Whether you're an experienced investor or just starting on your financial journey, Personal Capital can offer valuable insights and tools to help you make the most of your money.",
+					"text": "Starting your trading journey with ExpertOption is as easy as signing up for a social media account. Simple, quick, and straightforward. \n \n Expert Tips for New Traders \n \n Get tips and tricks from trading experts, making your entry into trading as smooth as learning to ride a bike with training wheels. \n \n The Future of Online Trading \n \n ExpertOption is not just about today; it's about the future. It's continuously evolving, like a tree growing stronger and taller.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            },{
+                "title": "Conclusion",
+                "image": "https://m-imag.web.app/expertoption/7.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "ExpertOption is your go-to platform for easy, secure, and efficient online trading. Whether you're a beginner or an experienced trader, ExpertOption has something to offer you. So why wait? Start your trading journey today and unlock the potential of financial markets.",
 					"native": true,
 					"cpa_title": "",
 					"cpa_url": "000000"
